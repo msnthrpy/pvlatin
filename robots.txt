@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://35.202.112.195/sitemap.xml
+Host: 35.202.112.195
